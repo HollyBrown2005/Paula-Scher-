@@ -23,6 +23,7 @@
     margin: 0 auto o auto;
     font-size: large;
     
+    
 
  }
 
@@ -185,13 +186,15 @@ figure.quote p{
  margin-bottom:.5rem;
  }
  figure.quote figcaption p{
- font-weight:700;
+ font-size: large;
   }
 
 footer {
 padding: 1.5rem 0 1.5rem 0;
 margin-top:2rem;
-border-top:1px solid #101010;
+border-top:20px solid #11005e;
+background-color: #fff174;
+
 }
 
 main{
