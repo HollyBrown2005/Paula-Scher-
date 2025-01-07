@@ -168,13 +168,13 @@ img {
     max-width: 1020px;
     width:100%;
     height:auto;
-    border:1px solid #101010;
+    border: 10px solid #0027d2;
     margin-bottom: 2rem;
     }
     
     /*blockquote*/
 figure.quote {
-    border-left: 8px solid #ff0000;
+    border-left: 10px solid #ff0000;
     padding:1.5rem 0 1.5rem 2rem;
     margin-bottom: 2rem;
     }
